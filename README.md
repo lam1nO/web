@@ -1,1 +1,1 @@
-Контрольная работа: branch -> master
+Зачетная работа: branch -> master
